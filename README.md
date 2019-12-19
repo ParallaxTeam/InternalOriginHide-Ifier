@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="https://github.com/johnpierson/InternalOriginHide-Ifier/blob/master/_resources/hideifier.jpg" alt="Hideifier" width="400">
+  <img src="https://github.com/johnpierson/InternalOriginHide-Ifier/blob/master/_resources/03_ToolScreenshot.png" alt="Hideifier" width="400">
 
 </h1>
 <h4 align="center">A custom Revit add-in to hide the darn internal origin.</h4>

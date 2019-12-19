@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Soopa Doopa Internal Origin Hide-ifier</Text>
+    <Description>This hides the Revit 2020.2 internal origin that they forced upon us.</Description>
+    <Assembly>HideInternalOriginEverywhere.dll</Assembly>
+    <FullClassName>HideInternalOriginEverywhere.Command</FullClassName>
+    <ClientId>fd637a74-a56b-43dd-abd7-588f56b9f6e3</ClientId>
+    <VendorId>ParallaxTeam</VendorId>
+    <VendorDescription>Parallax Team Inc., http://parallaxteam.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
